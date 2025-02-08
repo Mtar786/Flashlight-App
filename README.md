@@ -2,7 +2,7 @@
 
 A simple yet feature-rich flashlight app built with Kotlin and Jetpack Compose. This app uses the camera flashlight and provides additional features like strobe mode, SOS signal, shake-to-toggle, and a timer.
 
-Features
+#Features
 🔦 Flashlight Toggle: Turn the flashlight on and off with a simple button.
 💡 Strobe Mode: Flashlight blinks at adjustable intervals.
 🚨 SOS Signal: Sends an SOS signal (Morse code) using the flashlight.
