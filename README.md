@@ -1,6 +1,7 @@
 # Flashlight-App
 
 A simple yet feature-rich flashlight app built with **Kotlin** and **Jetpack Compose**. This app uses the camera flashlight and provides additional features like strobe mode, SOS signal, shake-to-toggle, and a timer.
+![image](https://github.com/user-attachments/assets/e6d72eb8-6173-4c2c-9c78-e136839cae5a)
 
 ---
 
